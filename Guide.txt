@@ -1,0 +1,17 @@
+#  Guide to Test Project
+# 
+#  Requirements: 
+#  1. Get VSCode/WebSctorm.
+#  2. NodeJs and npm package manager (Make sure you have it "node - v"/"npm -v").
+#  3. Selenium-webdriver (with help npm).
+#  4. Chromedriver (version should be according to Chrome browser. Get can need verstion here - http://chromedriver.storage.googleapis.com/index.html).
+#  5. Chai Assertion Library.
+# 
+#  Usage:
+#  1. Create project in VSCode/WebStorm.
+#  2. Node_modules install to project folder
+#  3. If needed update in Package JSON file particular Selenium-webdriver and Chai lib. versions.  
+#  4. Specify PATH to ChromeDriver directory in environment variables.
+#  5. Email and password gotten from HR team should insert to "loginEmail" and "loginPass" variables in test.js file.
+#  6. Use command "node test.js" for run test.
+
